@@ -1,5 +1,6 @@
-insertion sort <iostream>
-using namespace std;
+insertion sort
+
+
 void insertionSort(int n, int * arr) 
 {
  int temp,i,j,k;
